@@ -1,15 +1,7 @@
-/*  your css code here. If applicable */
-body{
-	text-align
+p[class="a"]{
+	background-color:red;
+	
 }
-th{
-border:1px solid black;
+p:not(.a){
+	background-color:yellowgreen;
 }
-td{
-border:1px solid black;
-}
-table{
-	background-color:yellow;
-	border:1px solid black;
-}
-
